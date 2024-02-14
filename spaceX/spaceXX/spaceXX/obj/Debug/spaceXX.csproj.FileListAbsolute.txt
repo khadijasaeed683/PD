@@ -1,0 +1,7 @@
+C:\LABS\PD\spaceX\spaceXX\spaceXX\bin\Debug\spaceXX.exe.config
+C:\LABS\PD\spaceX\spaceXX\spaceXX\bin\Debug\spaceXX.exe
+C:\LABS\PD\spaceX\spaceXX\spaceXX\bin\Debug\spaceXX.pdb
+C:\LABS\PD\spaceX\spaceXX\spaceXX\obj\Debug\spaceXX.csproj.AssemblyReference.cache
+C:\LABS\PD\spaceX\spaceXX\spaceXX\obj\Debug\spaceXX.csproj.CoreCompileInputs.cache
+C:\LABS\PD\spaceX\spaceXX\spaceXX\obj\Debug\spaceXX.exe
+C:\LABS\PD\spaceX\spaceXX\spaceXX\obj\Debug\spaceXX.pdb
