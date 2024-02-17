@@ -1,0 +1,7 @@
+C:\LABS\PD\PD4\prob1Task2\prob1Task2\bin\Debug\prob1Task2.exe.config
+C:\LABS\PD\PD4\prob1Task2\prob1Task2\bin\Debug\prob1Task2.exe
+C:\LABS\PD\PD4\prob1Task2\prob1Task2\bin\Debug\prob1Task2.pdb
+C:\LABS\PD\PD4\prob1Task2\prob1Task2\obj\Debug\prob1Task2.csproj.AssemblyReference.cache
+C:\LABS\PD\PD4\prob1Task2\prob1Task2\obj\Debug\prob1Task2.csproj.CoreCompileInputs.cache
+C:\LABS\PD\PD4\prob1Task2\prob1Task2\obj\Debug\prob1Task2.exe
+C:\LABS\PD\PD4\prob1Task2\prob1Task2\obj\Debug\prob1Task2.pdb
