@@ -1,0 +1,7 @@
+G:\ayesha work\coding\semester 2\OOP\OOP-C\week 8\PD 8\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+G:\ayesha work\coding\semester 2\OOP\OOP-C\week 8\PD 8\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe
+G:\ayesha work\coding\semester 2\OOP\OOP-C\week 8\PD 8\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.pdb
+G:\ayesha work\coding\semester 2\OOP\OOP-C\week 8\PD 8\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.AssemblyReference.cache
+G:\ayesha work\coding\semester 2\OOP\OOP-C\week 8\PD 8\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
+G:\ayesha work\coding\semester 2\OOP\OOP-C\week 8\PD 8\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
+G:\ayesha work\coding\semester 2\OOP\OOP-C\week 8\PD 8\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb

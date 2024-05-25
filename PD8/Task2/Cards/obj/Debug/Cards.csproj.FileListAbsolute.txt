@@ -1,0 +1,7 @@
+G:\ayesha work\coding\semester 2\OOP\OOP-C\week 8\PD 8\Cards\Cards\bin\Debug\Cards.exe.config
+G:\ayesha work\coding\semester 2\OOP\OOP-C\week 8\PD 8\Cards\Cards\bin\Debug\Cards.exe
+G:\ayesha work\coding\semester 2\OOP\OOP-C\week 8\PD 8\Cards\Cards\bin\Debug\Cards.pdb
+G:\ayesha work\coding\semester 2\OOP\OOP-C\week 8\PD 8\Cards\Cards\obj\Debug\Cards.csproj.AssemblyReference.cache
+G:\ayesha work\coding\semester 2\OOP\OOP-C\week 8\PD 8\Cards\Cards\obj\Debug\Cards.csproj.CoreCompileInputs.cache
+G:\ayesha work\coding\semester 2\OOP\OOP-C\week 8\PD 8\Cards\Cards\obj\Debug\Cards.exe
+G:\ayesha work\coding\semester 2\OOP\OOP-C\week 8\PD 8\Cards\Cards\obj\Debug\Cards.pdb
