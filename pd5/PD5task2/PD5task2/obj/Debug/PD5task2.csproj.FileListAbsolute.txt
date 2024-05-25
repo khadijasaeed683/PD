@@ -1,0 +1,7 @@
+C:\LABS\PD\pd5\PD5task2\PD5task2\obj\Debug\PD5task2.csproj.AssemblyReference.cache
+C:\LABS\PD\pd5\PD5task2\PD5task2\obj\Debug\PD5task2.csproj.CoreCompileInputs.cache
+C:\LABS\PD\pd5\PD5task2\PD5task2\bin\Debug\PD5task2.exe.config
+C:\LABS\PD\pd5\PD5task2\PD5task2\bin\Debug\PD5task2.exe
+C:\LABS\PD\pd5\PD5task2\PD5task2\bin\Debug\PD5task2.pdb
+C:\LABS\PD\pd5\PD5task2\PD5task2\obj\Debug\PD5task2.exe
+C:\LABS\PD\pd5\PD5task2\PD5task2\obj\Debug\PD5task2.pdb
